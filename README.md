@@ -4,7 +4,7 @@
 CPU : 12900K
 GPU : RX 560
 M/B : Gigabyte Z690 Aorus Pro
-RAM : DDR5 4800
+RAM : 2 x Crucial 16GB Unbuffered DDR5 4800MHz CL40 DIMM
 ```
 
 ### Monterey
