@@ -12,3 +12,9 @@ RAM : DDR5 4800
 ![Screenshot](Resources/1.jpg)
 ![Screenshot](Resources/2.jpg)
 ![Screenshot](Resources/3.jpg)
+
+### Not work
+```
+WIFI/BT
+Audio
+```
