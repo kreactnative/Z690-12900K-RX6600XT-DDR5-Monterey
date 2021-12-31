@@ -17,8 +17,11 @@ Audio : UGREEN USB Sound Card 30724
 
 ##### GeekBench 5
 https://browser.geekbench.com/v5/cpu/11910605
+
 ![Screenshot](Resources/1.1.jpg)
 
+##### CINEBENCH R23
+![Screenshot](Resources/2.1.jpg)
 ### OS
 ![Screenshot](Resources/1.jpg)
 ![Screenshot](Resources/2.jpg)
