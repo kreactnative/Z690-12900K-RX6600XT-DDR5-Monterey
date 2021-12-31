@@ -1,0 +1,3 @@
+*.* linguist-language=EFI
+*.* linguist-language=OpenCore
+*.* linguist-language=Hackintosh
