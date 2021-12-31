@@ -19,7 +19,7 @@ Audio : UGREEN USB Sound Card 30724
 https://browser.geekbench.com/v5/cpu/11910605
 ![Screenshot](Resources/1.1.jpg)
 
-### Monterey
+### OS
 ![Screenshot](Resources/1.jpg)
 ![Screenshot](Resources/2.jpg)
 ![Screenshot](Resources/3.jpg)
