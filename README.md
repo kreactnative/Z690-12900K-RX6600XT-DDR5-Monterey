@@ -6,7 +6,7 @@ GPU : Sapphire VGA NITRO+ RX 6600 XT
 M/B : Gigabyte Z690 Aorus Pro
 RAM : 2 x Crucial 16GB Unbuffered DDR5 4800MHz CL40 DIMM / OC 5400
 ```
-### add on
+### Add on
 ```
 WIFI/BT : Fenvi FV-T919 1750Mbps
 Audio : UGREEN USB Sound Card 30724
